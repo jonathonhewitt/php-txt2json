@@ -6,7 +6,13 @@ Converts idx TXT files to JSON files.
 **Remember:** By definition, idx files are pre-sorted key-value pairs.
 + https://github.com/pffy/idx#idx
 
-## BAD
+## GETTING STARTED
+
+- Download `txt2json.php`.
+- Run demo `php txt2json.php IdxHelloWorld.txt`
+- Both input and results should be key-value pairs.
+
+### BAD CONVERSION
 
 Do not do this. The key `hello` is overwritten many times.
 
@@ -27,7 +33,7 @@ hello:starfleet
 ```
 
 
-## GOOD
+### GOOD CONVERSION
 
 Do this, instead. Keys are unique. Greetings are the same. ^^
 
