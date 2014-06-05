@@ -3,6 +3,8 @@ php-txt2json
 
 Converts idx TXT files to JSON files.
 
+![txt2json](https://raw.githubusercontent.com/pffy/php-txt2json/master/screenshot/screenshot-pffy-php-txt2json.png)
+
 ## GETTING STARTED
 
 - Download `txt2json.php`.
