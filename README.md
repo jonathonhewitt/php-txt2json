@@ -3,9 +3,7 @@ php-txt2json
 
 Converts idx TXT files to JSON files.
 
-Remember.
-
-By definition, idx files are pre-sorted key-value pairs.
+**Remember:** By definition, idx files are pre-sorted key-value pairs.
 + https://github.com/pffy/idx#idx
 
 ## BAD
